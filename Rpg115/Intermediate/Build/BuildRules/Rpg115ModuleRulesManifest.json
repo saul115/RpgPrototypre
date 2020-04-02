@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealProjects\\RpgPrototypre\\Rpg115\\Source\\Rpg115\\Rpg115.Build.cs",
+		"D:\\UnrealProjects\\RpgPrototypre\\Rpg115\\Source\\Rpg115.Target.cs",
+		"D:\\UnrealProjects\\RpgPrototypre\\Rpg115\\Source\\Rpg115Editor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}

@@ -1,0 +1,2 @@
+D:\UnrealProjects\RpgPrototypre\Rpg115\Intermediate\Build\Win64\UE4Editor\Development\Rpg115\Definitions.Rpg115.h
+D:\UnrealProjects\RpgPrototypre\Rpg115\Source\Rpg115\Rpg115.h

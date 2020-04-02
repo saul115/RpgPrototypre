@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Rpg115.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjects\RpgPrototypre\Rpg115\Intermediate\Build\Win64\Rpg115Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UnrealProjects\RpgPrototypre\Rpg115\Intermediate\Build\Win64\UE4Editor\Development\Rpg115\Rpg115.cpp.obj"
+"D:\UnrealProjects\RpgPrototypre\Rpg115\Intermediate\Build\Win64\UE4Editor\Development\Rpg115\Rpg115GameModeBase.cpp.obj"
+"D:\UnrealProjects\RpgPrototypre\Rpg115\Intermediate\Build\Win64\UE4Editor\Development\Rpg115\Rpg115.init.gen.cpp.obj"
+"D:\UnrealProjects\RpgPrototypre\Rpg115\Intermediate\Build\Win64\UE4Editor\Development\Rpg115\Rpg115GameModeBase.gen.cpp.obj"
+"D:\UnrealProjects\RpgPrototypre\Rpg115\Intermediate\Build\Win64\UE4Editor\Development\Rpg115\Default.rc2.res"
+/OUT:"D:\UnrealProjects\RpgPrototypre\Rpg115\Intermediate\Build\Win64\UE4Editor\Development\Rpg115\UE4Editor-Rpg115.lib"
+/INCLUDE:IMPLEMENT_MODULE_Rpg115

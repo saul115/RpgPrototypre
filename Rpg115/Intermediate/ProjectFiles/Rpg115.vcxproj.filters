@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Rpg115.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0741362D-4EA7-4D60-AE1F-8F44C0CB4065}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Rpg115.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Rpg115Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A3F93EC3-AF3C-48BA-9D09-B76EE5388472}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Rpg115">
+      <UniqueIdentifier>{90D00C15-F3EB-4644-8721-1C8FB93AA729}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Rpg115\Rpg115.Build.cs">
+      <Filter>Source\Rpg115</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Rpg115\Rpg115.cpp">
+      <Filter>Source\Rpg115</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rpg115\Rpg115.h">
+      <Filter>Source\Rpg115</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rpg115\Rpg115GameModeBase.cpp">
+      <Filter>Source\Rpg115</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rpg115\Rpg115GameModeBase.h">
+      <Filter>Source\Rpg115</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
