@@ -609,3 +609,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.02-23.33.19:129][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2020.04.02-23.33.19:239][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2020.04.02-23.33.19:287][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.02-23.57.53:842][406]LogSlate: Took 0.118657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.02-23.58.11:934][495]LogUObjectHash: Compacting FUObjectHashTables data took  11.17ms
+[2020.04.03-00.00.41:758][362]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.03-00.00.44:140][362]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.04.03-00.00.44:140][362]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.04.03-00.00.44:836][362]LogSlate: Took 0.288394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.03-00.00.49:260][503]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.04.03-00.01.26:570][114]Running D:/Program Files/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/UnrealProjects/RpgPrototypre/Rpg115/Rpg115.uproject" -game -rocket -progress
+[2020.04.03-00.01.28:271][114]Discovering modules, targets and source code for project...
